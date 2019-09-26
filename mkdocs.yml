@@ -1,0 +1,6 @@
+site_name: Nikitko Docs
+nav:
+    - Home: index.md
+    - About: index.md
+    - YO: index.md
+theme: readthedocs
